@@ -12,6 +12,7 @@ import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+        //completado
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val calcularBoton:Button = findViewById(R.id.calculate_button);
