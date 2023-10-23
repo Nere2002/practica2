@@ -8,7 +8,8 @@
     <string name="ok_service">Okay (15%)</string>
     <string name="round_up_tip">Round up tip?</string>
     <string name="calculate">Calculate</string>
-    <string name="tip_amount">Tip Amount</string>
+<!--    <string name="tip_amount">Tip Amount</string>-->
+    <string name="tip_amount">Tip Amount: %s</string>
     <string name="c_mo_estuvo_el_servicio">Cómo estuvo el servicio?</string>
     <string name="coste_del_servicio">coste del servicio</string>
     <string name="quieres_redondear">Quieres redondear</string>
